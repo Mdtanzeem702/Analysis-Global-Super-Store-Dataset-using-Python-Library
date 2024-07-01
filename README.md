@@ -1,6 +1,6 @@
 # Analysis-Global-Super-Store-Dataset-using-Python-Library
 
-# Overview of Global Super Store Dataset analysis using python 
+Overview of Global Super Store Dataset analysis using python 
 
 1. Load the Data
 First, we'll import the necessary libraries and load the dataset.
